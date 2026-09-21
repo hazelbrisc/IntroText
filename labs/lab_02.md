@@ -1,5 +1,5 @@
 # COMP1238 - Week 2 Lab - GitHub setup
-
+LAB 2 ASSIGNMENT
 ## Material Covered During the Lecture:
 - How computer memory works
 - Short-term (volatile) RAM memory vs persistent storage
